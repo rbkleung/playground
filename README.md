@@ -1,2 +1,2 @@
 # playground
- trying out github desktop first time
+ trying out Github desktop first time (sitting in front of Mekur)
